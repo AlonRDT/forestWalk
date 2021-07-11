@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Coin
+  - Floor
+  - PlayerBlock
+  - PlayerAttack
+  - Death
+  - Head
+  - PlayerFeet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3786906303
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Collectables
+    uniqueID: 2968450095
+    locked: 0
+  - name: ForeGround
+    uniqueID: 2782739629
+    locked: 0
